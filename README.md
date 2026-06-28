@@ -18,23 +18,7 @@ An interactive Computer Vision project that creates a real-time invisibility clo
 
 ## 📸 Demo
 
-> Add screenshots or a GIF here.
-
-Example:
-
-```text
-screenshots/
-├── dashboard.png
-├── cloak_effect.png
-└── color_selection.png
-```
-
-```markdown
-![Color Selection](screenshots/color_selection.png)
-
-![Invisible Cloak](screenshots/cloak_effect.png)
-```
-
+>
 ---
 
 ## 🛠 Tech Stack
@@ -173,7 +157,7 @@ Display Invisible Effect
 
 ## 👨‍💻 Author
 
-**Varun Vaibhav**
+**Varun Vaibhav.S**
 
 Computer Science Engineering (AI & Data Analytics)
 
